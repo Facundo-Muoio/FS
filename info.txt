@@ -1,0 +1,18 @@
+{
+  "contenidoStr": "{\n  \"name\": \"backend\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"script.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"nodejs\"\n  ],\n  \"author\": \"Facundo Muoio\",\n  \"license\": \"ISC\"\n}\n",
+  "cotenidoObjeto": {
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "nodejs"
+    ],
+    "author": "Facundo Muoio",
+    "license": "ISC"
+  },
+  "size": "2kb"
+}
